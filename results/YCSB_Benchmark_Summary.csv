@@ -1,0 +1,13 @@
+Dataset,Database,"[OVERALL], RunTime(ms)","[OVERALL], Throughput(ops/sec)","[READ], AverageLatency(us)","[CLEANUP], AverageLatency(us)","[UPDATE], AverageLatency(us)"
+Merged Workload A,MongoDB,5058,1431.2,545.57,2355.0,561.82
+Merged Workload A,MySQL,30291,238.98,790.76,2969.0,7345.3
+Merged Workload B,MongoDB,4483,1614.77,524.98,1542.0,712.05
+Merged Workload B,MySQL,7531,961.23,603.15,4222.0,7895.15
+Price Workload A,MongoDB,1658,765.98,754.47,2053.0,950.47
+Price Workload A,MySQL,6966,182.31,1296.7,7330.0,8391.38
+Price Workload B,MongoDB,1734,732.41,928.26,2409.0,1140.38
+Price Workload B,MySQL,2692,471.77,1012.51,2793.0,8262.32
+Tweet Workload A,MongoDB,4212,1610.4,515.01,2183.0,534.41
+Tweet Workload A,MySQL,29053,233.47,724.38,7106.0,7501.79
+Tweet Workload B,MongoDB,4043,1677.71,483.18,2469.0,1175.86
+Tweet Workload B,MySQL,8240,823.18,683.75,5354.0,8021.75
