@@ -1,3 +1,8 @@
+## 🏗️ Big Data Architecture
+
+The following diagram illustrates the end-to-end big data architecture used in this project,
+including data storage, distributed processing, database benchmarking, and result analysis.
+
 ### Architecture Overview
 - Raw stock and tweet data are stored in HDFS
 - PySpark performs preprocessing, merging, and sentiment extraction
