@@ -1,6 +1,3 @@
-# Sentiment-enhanced-stock-forecasting-and-db-benchmarking
-Sentiment-enhanced stock price forecasting using SARIMAX and LSTM, combined with a comparative performance analysis of MySQL and MongoDB using YCSB and big data technologies.
-
 # Sentiment-Enhanced Time Series Forecasting and Database Performance Analysis
 
 ## 📌 Project Overview
