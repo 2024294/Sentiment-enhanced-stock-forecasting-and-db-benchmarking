@@ -84,4 +84,8 @@ notebooks/
 ├── 01_pyspark_data_processing.ipynb
 └── 02_analysis_and_forecasting.ipynb
 
+## 👤 Author
+**Mesut UGUR**  
+MSc Data Analytics 
+
 
