@@ -23,7 +23,7 @@ The complete pipeline integrates **big data storage, distributed processing, sen
 
 The following diagram illustrates the end-to-end architecture used in this project, covering data storage, distributed processing, benchmarking, and result analysis.
 
-![Big Data Architecture](docs/architecture/big_data_architecture.png)
+![Big Data Architecture](docs/architecture/big_data_architecture.png.jpeg)
 
 ### Architecture Flow
 - Raw stock and tweet data are stored in **HDFS**
